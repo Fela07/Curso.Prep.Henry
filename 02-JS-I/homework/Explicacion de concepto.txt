@@ -1,0 +1,18 @@
+Variables : Las variables son como una cajita de madera en la que 
+podes guardar la esencia de algo para usarla mas tarde.
+
+Strings: Es como una linea en la que se te permite 
+escribir el texto que desees.
+
+Funciones: Las funciones son una parte muy importante en el idioma de la computadora, son como objetos,
+ a los que podes llamar y que hagan lo que le pedis, eso si va a hcerlo si se lo pedis con las palabras correctas. 
+
+
+Declaraciones if: Una declaracion if es como una instruccion que vos le das a la computadora,
+ de que si por ejemplo,
+  Esto pasa entonces actua de esta manera. 
+  
+
+  Valores Booleanos: los valores booleanos son 
+  true or false, significan dos opciones,
+   activa o desactivar, 0 o 1, verdadero o falso
